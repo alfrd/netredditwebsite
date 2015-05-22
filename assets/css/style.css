@@ -13,6 +13,12 @@
 	@-ms-viewport {
 		width: device-width;
 	}
+#svepvideo {
+	position: relative;
+	display: block;
+	height: 540px;
+	margin: 0 auto;
+}
 
 /* Skel */
 
